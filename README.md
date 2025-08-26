@@ -1,4 +1,4 @@
-# ✨ Projeto Algoritmo de Karatsuba (FPAA)
+# Projeto Algoritmo de Karatsuba (FPAA)
 
 ## 📖 O que é este projeto?
 Este projeto implementa o **Algoritmo de Karatsuba** em Python para multiplicação eficiente de números inteiros grandes.  
@@ -48,7 +48,7 @@ python main.py
 
 python3 main.py
 
-### 4) Exemplo de uso
+### 4) Exemplo de saída
 Digite o primeiro número inteiro: 1234
 
 Digite o segundo número inteiro: 5678
@@ -71,11 +71,6 @@ Para a função `karatsuba`, temos:
 - **Arestas (E):** 7  
 - **Componentes (P):** 1
 
-Grafo do Karatsuba
-
-![Grafo do Karatsuba](docs/Grafo_Karatsuba.svg)
-
-
 📌 Fórmula:  
 \[
 M = E - N + 2P = 7 - 6 + 2(1) = 3
@@ -83,6 +78,10 @@ M = E - N + 2P = 7 - 6 + 2(1) = 3
 
 ⚠️ Quanto maior o valor da complexidade ciclomática, mais difícil é entender e manter o código.  
 👉 Nesse caso, a complexidade é **3**, considerada baixa.
+
+🕸️ Grafo do Karatsuba:
+
+![Grafo do Karatsuba](Karatsuba.drawio.svg)
 
 ---
 
