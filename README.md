@@ -81,7 +81,7 @@ M = E - N + 2P = 7 - 6 + 2(1) = 3
 
 🕸️ Grafo do Karatsuba:
 
-![Grafo do Karatsuba](Karatsuba.drawio.svg)
+![Grafo do Karatsuba](docs/Karatsuba.drawio.svg)
 
 ---
 
