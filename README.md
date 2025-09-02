@@ -24,9 +24,9 @@ Ele usa a técnica de **divisão e conquista (divide and conquer)** para reduzir
 - Este projeto **não** tem dependências externas.
 
 ### 1) Clonar o repositório
-git clone https://github.com/bruna-bernardes/algoritmo-karatsuba-fpaa.git
+git clone https://github.com/bruna-bernardes/Karatsuba-Python.git
 
-cd algoritmo-karatsuba-fpaa
+cd Karatsuba-Python
 
 ### 2) (Opcional) Criar e ativar um ambiente virtual
 - Windows
